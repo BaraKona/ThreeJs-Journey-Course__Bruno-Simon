@@ -1,14 +1,8 @@
-# ThreeJs-Journey-Course__Bruno-Simon
-Learning threeJS
-
-
-### Learning threeJS👋
-# Class by Bruno-Simon
-  <img style="height: 100px; width: 100px;" src="https://res.cloudinary.com/andromeda-inn/image/upload/v1637788763/Icons/circle_2_shjutw.svg"/>
-
+# Learning threeJS👋
+#### Class by Bruno-Simon
 <hr/>
 
-# - ⚡  What I am learning ?
+## - ⚡  What I am learning ?
 
 The course is complete, yet accessible for beginners. Covering what WebGL is and why using the Three.js library is a must. The various components of Three.js as well as advanced techniques to display millions of particles, add physics, add interactions, create a galaxy, animate a raging sea, etc.
 
